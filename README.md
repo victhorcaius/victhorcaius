@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ElcoNguyenVuong
+- 👀 I’m interested in serverside development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on (Currently no)
+- 📫 Contact me at: elco.nguyenvuong@gmail.com (I never checking this)
